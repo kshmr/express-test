@@ -1,0 +1,52 @@
+[{
+	"kategory_name": "Adab",
+	"kategory_id": 0
+}, {
+	"kategory_name": "ahlussunnah",
+	"kategory_id": 1
+}, {
+	"kategory_name": "Akhlak",
+	"kategory_id": 2
+}, {
+	"kategory_name": "Akidah",
+	"kategory_id": 3
+}, {
+	"kategory_name": "al haq",
+	"kategory_id": 4
+}, {
+	"kategory_name": "Al-Qur'an",
+	"kategory_id": 5
+}, {
+	"kategory_name": "Amalan",
+	"kategory_id": 6
+}, {
+	"kategory_name": "Buruk",
+	"kategory_id": 7
+}, {
+	"kategory_name": "Dosa",
+	"kategory_id": 8
+}, {
+	"kategory_name": "ghuroba",
+	"kategory_id": 9
+}, {
+	"kategory_name": "Introspeksi",
+	"kategory_id": 10
+}, {
+	"kategory_name": "istiqomah",
+	"kategory_id": 11
+}, {
+	"kategory_name": "istri",
+	"kategory_id": 12
+}, {
+	"kategory_name": "Muhasabah",
+	"kategory_id": 13
+}, {
+	"kategory_name": "Sunnah",
+	"kategory_id": 14
+}, {
+	"kategory_name": "syukur",
+	"kategory_id": 15
+}, {
+	"kategory_name": "tahdzir",
+	"kategory_id": 16
+}]
