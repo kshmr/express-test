@@ -25,4 +25,10 @@
 }, {
 	"kategory_name": "Superhero",
 	"kategory_id": 8
+},{
+	"kategory_name": "Building",
+	"kategory_id": 9
+},{
+	"kategory_name": "Art",
+	"kategory_id": 10
 }]
