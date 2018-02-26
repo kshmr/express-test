@@ -1,0 +1,28 @@
+[{
+	"kategory_name": "Portrait",
+	"kategory_id": 0
+}, {
+	"kategory_name": "Wide",
+	"kategory_id": 1
+}, {
+	"kategory_name": "Full Color",
+	"kategory_id": 2
+}, {
+	"kategory_name": "Landscape",
+	"kategory_id": 3
+}, {
+	"kategory_name": "People",
+	"kategory_id": 4
+}, {
+	"kategory_name": "Abstract",
+	"kategory_id": 5
+}, {
+	"kategory_name": "Xiaomi",
+	"kategory_id": 6
+}, {
+	"kategory_name": "Cartoon",
+	"kategory_id": 7
+}, {
+	"kategory_name": "Superhero",
+	"kategory_id": 8
+}]
